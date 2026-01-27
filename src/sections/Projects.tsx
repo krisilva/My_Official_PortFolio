@@ -28,9 +28,9 @@ const projects = [
   },
   {
     id: 3,
-    title: 'Mobile Banking App',
+    title: 'Mobile Hospital App(Care Me App)',
     description:
-      'A secure and intuitive mobile banking application with real-time transactions, budget tracking, and financial insights.',
+      'A Fast And Emergancy Mobile Care Me Hospital App.',
     image: '/project-3.jpg',
     tech: ['React Native', 'Firebase', 'Plaid API', 'TypeScript'],
     liveUrl: '#',

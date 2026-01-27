@@ -104,7 +104,7 @@ export default function Hero() {
     };
   }, []);
 
-  const headlineText = "HI, I'M KAVIRATHNA";
+  const headlineText = "HI, I'M KAVIRATHNA RUMESHA ISHINI SILVA";
 
   const handleScrollToWork = () => {
     const projectsSection = document.querySelector('#projects');
@@ -153,7 +153,7 @@ export default function Hero() {
             {/* Subheadline */}
             <p className="hero-subheadline body-text max-w-lg mb-8">
               A Passionate{' '}
-              <span className="text-orange-500 font-medium">Frontend Web Developer</span>{' '}
+              <span className="text-orange-500 font-medium">DevOps Intern And Frontend Web Developer</span>{' '}
               crafting beautiful, responsive, and interactive digital experiences.
             </p>
 
@@ -188,7 +188,7 @@ export default function Hero() {
                 <Linkedin size={24} />
               </a>
               <a
-                href="mailto:kavirathna@example.com"
+                href="mailto:ishinisilva19@gmail.com"
                 className="hero-social text-gray-400 hover:text-orange-500 transition-colors duration-300"
                 aria-label="Email"
               >
@@ -206,7 +206,7 @@ export default function Hero() {
               {/* Image container with mask */}
               <div className="hero-image-mask relative w-72 h-72 sm:w-96 sm:h-96 lg:w-[500px] lg:h-[500px] rounded-2xl overflow-hidden">
                 <img
-                  src="/hero-portrait.jpg"
+                  src="/01.jpeg"
                   alt="Kavirathna Silva"
                   className="w-full h-full object-cover"
                 />
@@ -219,7 +219,7 @@ export default function Hero() {
               
               {/* Floating badge */}
               <div className="absolute -bottom-4 -left-4 bg-orange-500 text-white px-6 py-3 rounded-lg shadow-glow">
-                <span className="font-display text-xl">5+ Years</span>
+                <span className="font-display text-xl">6 month Industrial Experience And 3 Years acadamic Experience</span>
                 <span className="block text-xs font-body opacity-80">Experience</span>
               </div>
             </div>

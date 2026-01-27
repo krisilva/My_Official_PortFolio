@@ -5,9 +5,9 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
-  { value: 5, suffix: '+', label: 'Years Experience' },
-  { value: 50, suffix: '+', label: 'Projects Completed' },
-  { value: 20, suffix: '+', label: 'Happy Clients' },
+  { value: 6, suffix: '+', label: 'Month Industrial Working Experience & 3 Year academic Experience' },
+  { value: 10, suffix: '+', label: 'Projects Completed' },
+  { value: 10, suffix: '+', label: 'Happy Clients' },
 ];
 
 export default function About() {
@@ -142,7 +142,7 @@ export default function About() {
             >
               <div className="relative w-full max-w-md mx-auto aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/about-portrait.jpg"
+                  src="/02.jpeg"
                   alt="About Kavirathna"
                   className="w-full h-full object-cover"
                 />
@@ -167,7 +167,7 @@ export default function About() {
 
               {/* Skills Tags */}
               <div className="flex flex-wrap gap-3 mb-8">
-                {['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'UI/UX Design'].map(
+                {['React','Git', 'Linux', 'TypeScript', 'Tailwind CSS', 'Node.js', 'UI/UX Design'].map(
                   (skill) => (
                     <span
                       key={skill}
