@@ -125,7 +125,7 @@ export default function About() {
 
       {/* Content */}
       <div className="relative z-10 section-padding">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-6xl mx-auto">
           {/* Section Header */}
           <div className="mb-16">
             <span className="text-orange-500 font-medium text-sm tracking-widest uppercase mb-4 block">
