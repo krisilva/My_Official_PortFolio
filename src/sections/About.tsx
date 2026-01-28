@@ -142,7 +142,7 @@ export default function About() {
             >
               <div className="relative w-full max-w-md mx-auto aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/02.jpeg"
+                  src="/002.png"
                   alt="About Kavirathna"
                   className="w-full h-full object-cover"
                 />
