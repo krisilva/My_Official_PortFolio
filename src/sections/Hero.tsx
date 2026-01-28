@@ -206,7 +206,7 @@ export default function Hero() {
               {/* Image container with mask */}
               <div className="hero-image-mask relative w-72 h-72 sm:w-96 sm:h-96 lg:w-[500px] lg:h-[500px] rounded-2xl overflow-hidden">
                 <img
-                  src="/001.png"
+                  src="/011.jpeg"
                   alt="Kavirathna Silva"
                   className="w-120 h-200 object-cover"
                 />
