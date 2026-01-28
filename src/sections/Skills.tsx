@@ -262,9 +262,10 @@ export default function Skills() {
                 'SASS',
                 'Webpack',
                 'Vite',
-                'Jest',
+                'MY SQL',
                 'REST APIs',
-                'GraphQL',
+                'GIT',
+                'LINUX',
                 'MongoDB',
                 'Firebase',
               ].map((tech) => (

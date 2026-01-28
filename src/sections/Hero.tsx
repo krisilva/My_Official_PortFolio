@@ -210,6 +210,7 @@ export default function Hero() {
                   alt="Kavirathna Silva"
                   className="w-120 h-200 object-cover"
                 />
+          
                 {/* Overlay gradient */}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
               </div>
